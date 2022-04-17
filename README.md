@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on my B.S.c in Computer Science, Statistics and Data Science.
 - 👀 I’m interested in Software Engineering and Machine Learning.
 - 💬 Ask me about Everything 🏖️
-- 📫 How to reach me: daniel.busbib@gmail.com
-`ss`
+- 📫 How to reach me: `daniel.busbib@gmail.com`
+`
 <p align='center'>
 <!--     Technology --> 
 </p>
@@ -20,4 +20,4 @@
     <img align="center" alt="git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
     <img align="center" alt="python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-
+`
