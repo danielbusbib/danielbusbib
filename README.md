@@ -1,8 +1,7 @@
 ### Hi there, I'm Daniel 👋
 
-
-- 🔭 B.Sc. in Computer Science, Statistics and Data Science.
-- 🔭 I’m currently working on my M.Sc. in Computer Science.
+- 🔭 I’m currently working on my Phd in Computer Science in the optimization and ML lab of Prof Ami Wiesel.
+- 🔭 M.S.c in CS, B.Sc. in CS, Statistics and Data Science.
 - 👀 I’m interested in Software Engineering and Machine Learning.
 - 💬 Ask me about Everything 🏖️
 - 📫 How to reach me: daniel.busbib@gmail.com
